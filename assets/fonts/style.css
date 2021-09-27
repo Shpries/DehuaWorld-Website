@@ -1,0 +1,15 @@
+@font-face {
+   font-family: 'IPix中文像素字体';
+   font-display: swap;
+   src: url('IPix中文像素字体/font.ttf');
+}
+@font-face {
+   font-family: '极影毁片文宋';
+   font-display: swap;
+   src: url('极影毁片文宋/font.ttf');
+}
+@font-face {
+   font-family: '繁媛明朝 SemiBold';
+   font-display: swap;
+   src: url('繁媛明朝 SemiBold/font.ttf');
+}
